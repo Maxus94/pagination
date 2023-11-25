@@ -1,0 +1,18 @@
+.hero-item{
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    border-width: 2px;
+    border-color: tomato;    
+    border-style: solid;
+    list-style: none;
+}
+
+.hidden{
+    display: none;
+}
+
+.js-load-more{
+    width: 100px;
+    margin-left: 270px;
+}
